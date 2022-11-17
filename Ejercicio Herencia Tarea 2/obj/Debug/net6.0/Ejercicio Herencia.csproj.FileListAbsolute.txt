@@ -1,0 +1,15 @@
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\bin\Debug\net6.0\Ejercicio Herencia.exe
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\bin\Debug\net6.0\Ejercicio Herencia.deps.json
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\bin\Debug\net6.0\Ejercicio Herencia.runtimeconfig.json
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\bin\Debug\net6.0\Ejercicio Herencia.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\bin\Debug\net6.0\Ejercicio Herencia.pdb
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.csproj.AssemblyReference.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.AssemblyInfoInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.AssemblyInfo.cs
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.csproj.CoreCompileInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\refint\Ejercicio Herencia.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.pdb
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\Ejercicio Herencia.genruntimeconfig.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicio Herencia\obj\Debug\net6.0\ref\Ejercicio Herencia.dll
