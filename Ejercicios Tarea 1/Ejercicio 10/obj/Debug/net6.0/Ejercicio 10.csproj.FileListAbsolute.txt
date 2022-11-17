@@ -1,0 +1,15 @@
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\bin\Debug\net6.0\Ejercicio 10.exe
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\bin\Debug\net6.0\Ejercicio 10.deps.json
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\bin\Debug\net6.0\Ejercicio 10.runtimeconfig.json
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\bin\Debug\net6.0\Ejercicio 10.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\bin\Debug\net6.0\Ejercicio 10.pdb
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.csproj.AssemblyReference.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.AssemblyInfoInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.AssemblyInfo.cs
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\refint\Ejercicio 10.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.pdb
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\Ejercicio 10.genruntimeconfig.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\Ejercicio 10\obj\Debug\net6.0\ref\Ejercicio 10.dll
