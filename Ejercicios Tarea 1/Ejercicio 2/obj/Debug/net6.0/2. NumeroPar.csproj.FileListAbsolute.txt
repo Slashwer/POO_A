@@ -1,0 +1,15 @@
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\bin\Debug\net6.0\2. NumeroPar.exe
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\bin\Debug\net6.0\2. NumeroPar.deps.json
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\bin\Debug\net6.0\2. NumeroPar.runtimeconfig.json
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\bin\Debug\net6.0\2. NumeroPar.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\bin\Debug\net6.0\2. NumeroPar.pdb
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.csproj.AssemblyReference.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.AssemblyInfoInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.AssemblyInfo.cs
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\refint\2. NumeroPar.dll
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.pdb
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\2. NumeroPar.genruntimeconfig.cache
+C:\Users\josty\OneDrive\Documentos\C#\Ejercicios Tarea 1\2. NumeroPar\obj\Debug\net6.0\ref\2. NumeroPar.dll
